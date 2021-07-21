@@ -7,3 +7,5 @@
 Fullstack web development, design, and etc.
 
 Visit my personal photo blog: https://andrewhwanpark.github.io/
+
+You can use my minimal-bootstrap-blog Jekyll theme to make an identically looking site as mine: https://github.com/andrewhwanpark/minimal-bootstrap-blog
