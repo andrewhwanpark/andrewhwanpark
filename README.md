@@ -1,4 +1,4 @@
-### I live in Downtown Mountain View 👋
+![Red_room](https://user-images.githubusercontent.com/13270895/156312857-a4edbdc6-1dde-4a80-884c-74f7774a7e24.jpg)
 
 - NYU, BS in Finance, BA in Computer Science (Class of 2021)
 
