@@ -1,4 +1,4 @@
-![Red_room](https://user-images.githubusercontent.com/13270895/156312857-a4edbdc6-1dde-4a80-884c-74f7774a7e24.jpg)
+![Red_room](https://user-images.githubusercontent.com/13270895/156313136-6449b2c4-ce6b-4d02-8786-d33a29d705ab.jpg)
 
 - NYU, BS in Finance, BA in Computer Science (Class of 2021)
 
